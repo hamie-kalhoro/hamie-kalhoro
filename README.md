@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-  - I'm a passionate backend developer from Pakistan, focusing on building robust and scalable applications using Java and Spring Boot. My journey revolves around crafting efficient APIs, integrating databases, and   exploring the depths of backend technologies.<br>
+-I'm a passionate backend developer from Pakistan, focusing on building robust and scalable applications using Java and Spring Boot. My journey revolves around crafting efficient APIs, integrating databases, and   exploring the depths of backend technologies.<br>
 <h2>Interest</h2>
   - I’m interested in Creating scalable Backend Applications using Spring Framework. <br>
 <h2>My upcoming goals include</h2>
