@@ -7,6 +7,7 @@ Microservices Architecture: Delving into building and managing microservices for
 Cloud Deployment: Exploring cloud platforms like AWS or Azure for deploying backend services.<br>
 <h2>Get in Touch</h2> 
 LinkedIn: https://www.linkedin.com/in/hamid-ali-a46426275/ <br>
+Portfolio: https://hamids-portfolio.vercel.app <br>
 email: hamidkalhoro.in@gmail.com <br>
 <h2>Pronouns:</h2>
 He/Him <br>
